@@ -14,7 +14,6 @@ int main(){
     printf("--- Cadastro da Carta 1 ---\n");
     printf("Estado (A-H): ");
     scanf(" %c", &estado1);
-    
     printf("Codigo da Carta (ex: A01): ");
     scanf("%s", codigoCarta1);
     
